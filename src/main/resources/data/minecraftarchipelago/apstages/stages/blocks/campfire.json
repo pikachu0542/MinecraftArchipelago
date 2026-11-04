@@ -1,5 +1,5 @@
 {
-  "items": { "lock": [], "unlock": ["#minecraft:campfires"] },
-  "blocks": { "lock": [], "unlock": ["#minecraft:campfires"] },
+  "items": { "lock": [], "unlock": ["minecraft:campfire", "minecraft:soul_campfire"] },
+  "blocks": { "lock": [], "unlock": ["minecraft:campfire", "minecraft:soul_campfire"] },
   "world": { "gamerules": {} }, "grants": { "packages": [] }
 }

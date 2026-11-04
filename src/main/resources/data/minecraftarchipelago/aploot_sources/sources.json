@@ -171,7 +171,7 @@
     {
       "id": "trial_vault",
       "type": "loot_table",
-      "chance": 0.20,
+      "chance": 0.05,
       "display_name": "Trial Chamber Vault",
       "tables": [
         "minecraft:chests/trial_chambers/reward",
