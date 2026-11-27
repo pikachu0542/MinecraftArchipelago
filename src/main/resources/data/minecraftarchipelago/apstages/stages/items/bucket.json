@@ -1,11 +1,7 @@
 {
   "items": {
     "lock": [],
-    "unlock": [
-      "minecraft:bucket",        "minecraft:lava_bucket",
-      "minecraft:milk_bucket",   "minecraft:water_bucket",
-      "minecraft:axolotl_bucket","minecraft:powder_snow_bucket"
-    ]
+    "unlock": ["#minecraft:buckets"]
   },
   "world":  { "gamerules": {} },
   "grants": { "packages": [] }
