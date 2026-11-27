@@ -51,7 +51,7 @@ public class MinecraftArchipelago implements ModInitializer {
 		// Proceed with mild caution.
 
 
-		LOGGER.info("Hello Fabric world!");
+		LOGGER.info("Initialized mod " + MOD_ID + "!");
 
 		Registry.register(
 				Registries.LOOT_FUNCTION_TYPE,
